@@ -1,6 +1,7 @@
 # js-lab-32
 ### Lab32 Conditiona: Refractor2
-จงเขียนโค้ดในรูปแบบ if else
+จงเขียนโค้ดในรูปแบบ if else  
+หริณ มาเบ้า มิก
 
 ```JavaScript
 switch (browser) {
